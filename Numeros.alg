@@ -12,7 +12,7 @@ Inicio
     Escreva("Digite um número: ")
     Leia(numero)
 
-    Se (numero > 10) E (numero < 30) Então
+    Se (numero > 10) E (numero < 30) Entao
         Se (numero <= 20) Então
             proximidade <- "mais próximo de 11"
         Senao
